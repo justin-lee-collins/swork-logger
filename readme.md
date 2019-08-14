@@ -1,5 +1,7 @@
 # swork-logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/justin-lee-collins/swork-logger.svg)](https://greenkeeper.io/)
+
 swork-logger is a swork middleware designed to log info for every fetch made through the service worker. It is built with TypeScript and async methods.
 
 **INSTALLATION**
